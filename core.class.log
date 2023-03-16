@@ -1,38 +1,19 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '51963741046@s.whatsapp.net',
+    remoteJid: '51901374724@s.whatsapp.net',
     fromMe: false,
-    id: '7D1120EB19EC65F97107E9A55E4D21E3',
+    id: '385479ACE2F5B1C5F1EB9062E9EEB16C',
     participant: undefined
   },
-  messageTimestamp: 1677884087,
-  pushName: 'Paul',
+  messageTimestamp: 1678980088,
+  pushName: '😎',
   message: Message {
-    conversation: 'Hhbjk',
+    conversation: 'Ok',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Hhbjk',
-  from: '51963741046'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51963741046@s.whatsapp.net',
-    fromMe: false,
-    id: '595EB70D8CCB85744D9D6375E74893E4',
-    participant: undefined
-  },
-  messageTimestamp: 1677884096,
-  pushName: 'Paul',
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '51963741046'
+  body: 'Ok',
+  from: '51901374724'
 }
